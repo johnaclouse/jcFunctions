@@ -1,0 +1,10 @@
+Package: jcFunctions
+Type: Package
+Title: Various Functions Used for Clinical and Geospatial Data Analysis
+Version: 0.1
+Date: 2015-06-04
+Author: John A. Clouse
+Maintainer: John Clouse <johnaclouse@gmail.com>
+Description: A set of functions used for the analysis of business, clinical, and geospatial data.
+License: file LICENSE
+LazyData: TRUE
